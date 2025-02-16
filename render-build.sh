@@ -8,5 +8,7 @@ echo "pnpm: $(pnpm --version)"
 
 npm install @google/generative-ai
 
-pnpm i
-pnpm build
+echo "installed @google/generative-ai"
+
+# pnpm i
+# pnpm build
